@@ -5,3 +5,4 @@ echo "how are you?"
 echo ------------------------------------
 val=`date`
 echo "Today's date is: $val"
+echo ------------------------------------
